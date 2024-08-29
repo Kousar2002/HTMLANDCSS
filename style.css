@@ -27,6 +27,7 @@
 }
 video{
     object-fit:cover;
+    width:100%;
 }
 .container{
     margin-top:80px;
