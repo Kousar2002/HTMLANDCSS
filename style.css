@@ -228,7 +228,7 @@ video{
  iframe{
     /* width:120%; */
     width:45vw;
-    height:80vh;
+    height:65vh;
 }   
 .pagination{
     display: flex;
